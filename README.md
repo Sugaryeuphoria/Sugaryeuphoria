@@ -7,12 +7,6 @@ I’m an LLM & AI Developer, Trainer, and Creator.
 
 I love asking questions, building things, and exploring whatever ideas pop into my head. If I think of something cool, chances are I’ll try to build it and ship it.
 
-<h1 align="center">Hi 👋, I'm Pooja</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugaryeuphoria&label=Profile%20views&color=0e75b6&style=flat" alt="sugaryeuphoria" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sugaryeuphoria" alt="sugaryeuphoria" /></a> </p>
 
 - 📫 How to reach me **pooja32verma@gmail.com**
 
